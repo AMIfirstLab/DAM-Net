@@ -1,0 +1,12 @@
+NVIDIA RTX 3060 12Gb
+Intel Core i5-12400F
+16Gb RAM
+
+Batch size = 12
+learning rate = 0.001 (constant thoughout the training)
+optimizer = Adam
+weight decay = 0.0001
+loss function = Cross entropy loss + label smoothing of 0.2
+Epochs = 50
+
+input image size = 256x256x3
