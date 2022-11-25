@@ -15,3 +15,10 @@ The results achieved on covid-x dataset are shown below, we have also compared o
   <img width="600" height="300" src=https://github.com/Zahid672/DAM-Net-Densely-Attention-Mechanism-Based-Network-for-COVID-19-detection/blob/main/images/comp_table.PNG>
 </p>
 
+## Ablation results
+To show how each part of our model effects the results we have performed ablation study by performing experiments by removing specific parts of our model, these results are shown below.
+
+<p align="center">
+  <img width="600" height="300" src=https://github.com/Zahid672/DAM-Net-Densely-Attention-Mechanism-Based-Network-for-COVID-19-detection/blob/main/images/ablation.PNG>
+</p>
+
