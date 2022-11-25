@@ -7,3 +7,11 @@ This repository is the official implementation of DAM-Net: Densely Attention Mec
 <p align="center">
   <img width="460" height="500" src="https://github.com/Zahid672/DAM-Net-Densely-Attention-Mechanism-Based-Network-for-COVID-19-detection/blob/main/images/model.PNG">
 </p>
+
+## Results on COVIDX dataset
+The results achieved on covid-x dataset are shown below, we have also compared our results with other other existing techniques.
+
+<p align="center">
+  <img width="600" height="300" src=https://github.com/Zahid672/DAM-Net-Densely-Attention-Mechanism-Based-Network-for-COVID-19-detection/blob/main/images/comp_table.PNG>
+</p>
+
